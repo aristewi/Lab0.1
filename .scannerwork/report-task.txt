@@ -1,0 +1,7 @@
+organization=aristegui
+projectKey=BetsStaticVerification2122
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23159
+dashboardUrl=https://sonarcloud.io/dashboard?id=BetsStaticVerification2122
+ceTaskId=AXvHZNP1IHuiaklFsL7R
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXvHZNP1IHuiaklFsL7R

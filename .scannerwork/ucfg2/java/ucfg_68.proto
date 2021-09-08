@@ -1,0 +1,37 @@
+
+)domain.Event#toString()Ljava/lang/String;g
+]/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/domain/Event.javaN N("1*Ë
+1g
+]/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/domain/Event.javaO	 O(®
+«
+g
+]/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/domain/Event.javaO	 O(
+%0java.lang.Integer"__id*!*
+domain.Event"
+eventNumber°
+­
+g
+]/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/domain/Event.javaO	 O(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;­
+ª
+g
+]/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/domain/Event.javaO O($
+%2java.lang.String"__id*!*
+domain.Event"
+descriptionÂ
+¿
+g
+]/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/domain/Event.javaO	 O($
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String"ƒ
+g
+]/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/domain/Event.javaO O(%
+
+%3java.lang.StringB
+domain.Event
