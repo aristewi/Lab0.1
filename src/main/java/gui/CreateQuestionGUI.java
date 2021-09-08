@@ -23,11 +23,12 @@ public class CreateQuestionGUI extends JFrame {
 
 	private JComboBox<Event> jComboBoxEvents = new JComboBox<Event>();
 	DefaultComboBoxModel<Event> modelEvents = new DefaultComboBoxModel<Event>();
+	private static String etiquetas = "Etiquetas";
 
-	private JLabel jLabelListOfEvents = new JLabel(ResourceBundle.getBundle("Etiquetas").getString("ListEvents"));
-	private JLabel jLabelQuery = new JLabel(ResourceBundle.getBundle("Etiquetas").getString("Query"));
-	private JLabel jLabelMinBet = new JLabel(ResourceBundle.getBundle("Etiquetas").getString("MinimumBetPrice"));
-	private JLabel jLabelEventDate = new JLabel(ResourceBundle.getBundle("Etiquetas").getString("EventDate"));
+	private JLabel jLabelListOfEvents = new JLabel(ResourceBundle.getBundle(etiquetas).getString("ListEvents"));
+	private JLabel jLabelQuery = new JLabel(ResourceBundle.getBundle(etiquetas).getString("Query"));
+	private JLabel jLabelMinBet = new JLabel(ResourceBundle.getBundle(etiquetas).getString("MinimumBetPrice"));
+	private JLabel jLabelEventDate = new JLabel(ResourceBundle.getBundle(etiquetas).getString("EventDate"));
 
 	private JTextField jTextFieldQuery = new JTextField();
 	private JTextField jTextFieldPrice = new JTextField();
@@ -36,8 +37,8 @@ public class CreateQuestionGUI extends JFrame {
 
 	private JScrollPane scrollPaneEvents = new JScrollPane();
 
-	private JButton jButtonCreate = new JButton(ResourceBundle.getBundle("Etiquetas").getString("CreateQuery"));
-	private JButton jButtonClose = new JButton(ResourceBundle.getBundle("Etiquetas").getString("Close"));
+	private JButton jButtonCreate = new JButton(ResourceBundle.getBundle(etiquetas).getString("CreateQuery"));
+	private JButton jButtonClose = new JButton(ResourceBundle.getBundle(etiquetas).getString("Close"));
 	private JLabel jLabelMsg = new JLabel();
 	private JLabel jLabelError = new JLabel();
 
@@ -123,7 +124,7 @@ public class CreateQuestionGUI extends JFrame {
 					try {
 						BLFacade facade = MainGUI.getBusinessLogic();
 
-						Vector<domain.Event> events = facade.getEvents(firstDay);
+						ArrayList<Event> events = facade.getEvents(firstDay);
 
 						if (events.isEmpty())
 							jLabelListOfEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("NoEvents")
@@ -138,7 +139,7 @@ public class CreateQuestionGUI extends JFrame {
 							modelEvents.addElement(ev);
 						jComboBoxEvents.repaint();
 
-						if (events.size() == 0)
+						if (events.isEmpty() )
 							jButtonCreate.setEnabled(false);
 						else
 							jButtonCreate.setEnabled(true);

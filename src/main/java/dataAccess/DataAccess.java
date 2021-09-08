@@ -1,5 +1,6 @@
 package dataAccess;
 
+import java.util.ArrayList;
 //hello
 import java.util.Calendar;
 import java.util.Date;
@@ -91,7 +92,8 @@ public class DataAccess  {
 			Question q4;
 			Question q5;
 			Question q6;
-					
+		
+			
 			if (Locale.getDefault().equals(new Locale("es"))) {
 				q1=ev1.addQuestion("¿Quién ganará el partido?",1);
 				q2=ev1.addQuestion("¿Quién meterá el primer gol?",2);
@@ -174,7 +176,7 @@ public class DataAccess  {
 			
 			db.getTransaction().begin();
 			Question q = ev.addQuestion(question, betMinimum);
-			//db.persist(q);
+			
 			db.persist(ev); // db.persist(q) not required when CascadeType.PERSIST is added in questions property of Event class
 							// @OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST)
 			db.getTransaction().commit();
@@ -188,9 +190,9 @@ public class DataAccess  {
 	 * @param date in which events are retrieved
 	 * @return collection of events
 	 */
-	public Vector<Event> getEvents(Date date) {
+	public ArrayList<Event> getEvents(Date date) {
 		System.out.println(">> DataAccess: getEvents");
-		Vector<Event> res = new Vector<Event>();	
+		ArrayList<Event> res = new ArrayList<Event>();	
 		TypedQuery<Event> query = db.createQuery("SELECT ev FROM Event ev WHERE ev.eventDate=?1",Event.class);   
 		query.setParameter(1, date);
 		List<Event> events = query.getResultList();
@@ -241,7 +243,7 @@ public void open(boolean initializeMode){
 			  emf = Persistence.createEntityManagerFactory("objectdb:"+fileName);
 			  db = emf.createEntityManager();
 		} else {
-			Map<String, String> properties = new HashMap<String, String>();
+			Map<String, String> properties = new HashMap<>();
 			  properties.put("javax.persistence.jdbc.user", c.getUser());
 			  properties.put("javax.persistence.jdbc.password", c.getPassword());
 

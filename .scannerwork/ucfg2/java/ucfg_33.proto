@@ -1,131 +1,146 @@
 
 6null#propertyChange(Ljava/beans/PropertyChangeEvent;)Vp
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javap p("31*µ
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaq q("31*µ
 13r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÜ Ü(“
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaá á(“
 œ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÜ Ü(
-%38javax.swing.JComboBox"__id*5*3
-Lgui/CreateQuestionGUI$4126;"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaá á(
+%39javax.swing.JComboBox"__id*5*3
+Lgui/CreateQuestionGUI$4163;"
 jComboBoxEventsﬂ‹
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÜ Ü(&
-%39void"'javax.swing.JComboBox#removeAllItems()V*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaá á(&
+%40void"'javax.swing.JComboBox#removeAllItems()V*
 
-%38javax.swing.JComboBox2removeAllItems()*
+%39javax.swing.JComboBox2removeAllItems()*
 12*ﬁ
 14r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÑ" Ö(4–
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖ" Ü(4–
 Õ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÑ" Ö(4
-%36java.lang.String"__concat*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖ" Ü(4
+%37java.lang.String"__concat*
 
-%32java.lang.String*
+%33java.lang.String*
 
-%35java.lang.Stringäá
+%36java.lang.Stringäá
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÑ Ö(5
-%37void"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖ Ü(5
+%38void"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
 
-%29javax.swing.JLabel*
+%30javax.swing.JLabel*
 
-%36java.lang.String2setText(Ljava/lang/String;)*
-13*¨
-15r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖ Ö(4´®
+%37java.lang.String2setText(Ljava/lang/String;)*
+13*˚
+25p
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.java (;¢
+ü
+p
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.java (;
+eventsjava.util.ArrayList"__id*
+""”–
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖ Ö(4
-%35java.lang.String"?java.text.DateFormat#format(Ljava/util/Date;)Ljava/lang/String;*%
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÅ
+ Å(
+%20boolean"java.util.ArrayList#isEmpty()Z*
+
+eventsjava.util.ArrayList2	isEmpty()*
+18
+23*¨
+15r
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÜ Ü(4´®
+r
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÜ Ü(4
+%36java.lang.String"?java.text.DateFormat#format(Ljava/util/Date;)Ljava/lang/String;*%
 #
 dateformat1java.text.DateFormat*
 
-%34java.util.Date2format(Ljava/util/Date;)*
+%35java.util.Date2format(Ljava/util/Date;)*
 14*Û
 16r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÑ^ Ñ(bΩ
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖ^ Ö(bΩ
 ∫
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÑ" Ñ(b
-%32java.lang.String"__concat*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖ" Ö(b
+%33java.lang.String"__concat*
 
-%31java.lang.String*
+%32java.lang.String*
 : À
 »
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖ Ö()
-%33java.util.Calendar"__id*1*/
-Lgui/CreateQuestionGUI$4126;"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÜ Ü()
+%34java.util.Calendar"__id*1*/
+Lgui/CreateQuestionGUI$4163;"
 calendarMio‰·
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖ Ö(3
-%34java.util.Date",java.util.Calendar#getTime()Ljava/util/Date;*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÜ Ü(3
+%35java.util.Date",java.util.Calendar#getTime()Ljava/util/Date;*
 
-%33java.util.Calendar2	getTime()*
+%34java.util.Calendar2	getTime()*
 15*©
 17r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÑR Ñ(Z®•
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖR Ö(Z®•
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÑ" Ñ([
-%31java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖ" Ö([
+%32java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
 
-%30java.util.ResourceBundle*
+%31java.util.ResourceBundle*
 
 Events2getString(Ljava/lang/String;)*
-16*˝
+16*˘
 28p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javav v(1ïí
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaw w(1ïí
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javav v(?
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaw w(?
 %7java.lang.Object">java.beans.PropertyChangeEvent#getNewValue()Ljava/lang/Object;*7
 5
 propertychangeeventjava.beans.PropertyChangeEvent2getNewValue()∆
 √
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javav v(?/
-Lgui/CreateQuestionGUI$4126;"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaw w(?/
+Lgui/CreateQuestionGUI$4163;"
 calendarMio"__id*
 
 %7java.lang.Object“
 œ
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaw< w(E$
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javax< x(E$
 %8com.toedter.calendar.JCalendar"__id*/*-
-Lgui/CreateQuestionGUI$4126;"
+Lgui/CreateQuestionGUI$4163;"
 	jCalendarÄ˝
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaw< w(Q
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javax< x(Q
 %9java.util.Locale"<com.toedter.calendar.JCalendar#getLocale()Ljava/util/Locale;*&
 $
 %8com.toedter.calendar.JCalendar2getLocale()ù
 ö
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaw w(R
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javax x(R
 %10java.text.DateFormat"Ojava.text.DateFormat#getDateInstance(ILjava/util/Locale;)Ljava/text/DateFormat;*"
 java.text.DateFormat*2*
 
 %9java.util.Localeø
 º
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaw w(S#
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javax x(S#
 dateformat1java.text.DateFormat"__id*
 
 %10java.text.DateFormat”
 –
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javax x(%
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javay y(%
 %11com.toedter.calendar.JCalendar"__id*/*-
-Lgui/CreateQuestionGUI$4126;"
+Lgui/CreateQuestionGUI$4163;"
 	jCalendar…
 ∆
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javax x(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javay y(&
 %12java.util.Calendar"__id*1*/
-Lgui/CreateQuestionGUI$4126;"
+Lgui/CreateQuestionGUI$4163;"
 calendarMioÆ´
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javax x('
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javay y('
 %13void"Acom.toedter.calendar.JCalendar#setCalendar(Ljava/util/Calendar;)V*'
 %
 %11com.toedter.calendar.JCalendar*
@@ -133,31 +148,31 @@ f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui
 %12java.util.Calendar2!setCalendar(Ljava/util/Calendar;)”
 –
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javay, y(5%
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaz, z(5%
 %14com.toedter.calendar.JCalendar"__id*/*-
-Lgui/CreateQuestionGUI$4126;"
+Lgui/CreateQuestionGUI$4163;"
 	jCalendaräá
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javay, y(C
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaz, z(C
 %15java.util.Calendar"@com.toedter.calendar.JCalendar#getCalendar()Ljava/util/Calendar;*'
 %
 %14com.toedter.calendar.JCalendar2getCalendar()‚ﬂ
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javay, y(M
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaz, z(M
 %16java.util.Date",java.util.Calendar#getTime()Ljava/util/Date;*
 
 %15java.util.Calendar2	getTime()¡æ
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javay, y(W
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaz, z(W
 %17long"java.util.Date#getTime()J*
 
 %16java.util.Date2	getTime()úô
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javay' y(+
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaz' z(+
 %18java.util.Date"java.util.Dateø
 º
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javay# y(X
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaz# z(X
 %19"java.util.Date#<init>(J)V*
 
 %18java.util.Date*
@@ -165,35 +180,34 @@ f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui
 %17longü
 ú
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javay y(Z
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaz z(Z
 firstDayjava.util.Date"__id*
-""*
-18
-23*Ì
+""*
+25*Ì
 18r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÑ Ñ(“
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖ Ö(“
 œ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÑ Ñ(
-%29javax.swing.JLabel"__id*8*6
-Lgui/CreateQuestionGUI$4126;"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖ Ö(
+%30javax.swing.JLabel"__id*8*6
+Lgui/CreateQuestionGUI$4163;"
 jLabelListOfEventsó
 î
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÑ" Ñ(G
-%30java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÖ" Ö(G
+%31java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
 java.util.ResourceBundle*
 	Etiquetas*
 17*ò
 29p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javau u("ùö
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javav v("ùö
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javau u(4
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javav v(4
 %5java.lang.String"Bjava.beans.PropertyChangeEvent#getPropertyName()Ljava/lang/String;*7
 5
 propertychangeeventjava.beans.PropertyChangeEvent2getPropertyName()ˆÛ
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javau u(G
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javav v(G
 %6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
 
 %5java.lang.String*
@@ -202,103 +216,113 @@ f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui
 28
 1*ﬁ
 19r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÅ" Ç(;–
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇ" É(;–
 Õ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÅ" Ç(;
-%27java.lang.String"__concat*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇ" É(;
+%28java.lang.String"__concat*
 
-%23java.lang.String*
+%24java.lang.String*
 
-%26java.lang.Stringäá
+%27java.lang.Stringäá
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÅ Ç(<
-%28void"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇ É(<
+%29void"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
 
-%20javax.swing.JLabel*
+%21javax.swing.JLabel*
 
-%27java.lang.String2setText(Ljava/lang/String;)*
+%28java.lang.String2setText(Ljava/lang/String;)*
 13*ë
 0 "â
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaô ô(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaö ö(
 implicit return*Ì
 1r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaò ò(’
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaô ô(’
 “
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaò ò(!%
-%53com.toedter.calendar.JCalendar"__id*/*-
-Lgui/CreateQuestionGUI$4126;"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaô ô(!%
+%56com.toedter.calendar.JCalendar"__id*/*-
+Lgui/CreateQuestionGUI$4163;"
 	jCalendarñ
 ì
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaò ò("
-%54void"Lgui.CreateQuestionGUI#paintDaysWithEvents(Lcom/toedter/calendar/JCalendar;)V*"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaô ô("
+%57void"Lgui.CreateQuestionGUI#paintDaysWithEvents(Lcom/toedter/calendar/JCalendar;)V*"
 gui.CreateQuestionGUI*'
 %
-%53com.toedter.calendar.JCalendar*
+%56com.toedter.calendar.JCalendar*
 0*¥
 4r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaê ê(Œ
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaë ë(Œ
 À
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaê ê(
-%48javax.swing.JButton"__id*3*1
-Lgui/CreateQuestionGUI$4126;"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaë ë(
+%51javax.swing.JButton"__id*3*1
+Lgui/CreateQuestionGUI$4163;"
 jButtonCreate‰·
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaê ê(%
-%49void")javax.swing.AbstractButton#setEnabled(Z)V*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaë ë(%
+%52void")javax.swing.AbstractButton#setEnabled(Z)V*
 
-%48javax.swing.JButton*
+%51javax.swing.JButton*
 ""2setEnabled(Z)*
 1*¥
 5r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaé é(Œ
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaè è(Œ
 À
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaé é(
-%46javax.swing.JButton"__id*3*1
-Lgui/CreateQuestionGUI$4126;"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaè è(
+%49javax.swing.JButton"__id*3*1
+Lgui/CreateQuestionGUI$4163;"
 jButtonCreate‰·
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaé é(&
-%47void")javax.swing.AbstractButton#setEnabled(Z)V*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaè è(&
+%50void")javax.swing.AbstractButton#setEnabled(Z)V*
 
-%46javax.swing.JButton*
+%49javax.swing.JButton*
 ""2setEnabled(Z)*
-1*•
+1*’
+7r
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaé
+ é(”–
+r
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaé
+ é(
+%48boolean"java.util.ArrayList#isEmpty()Z*
+
+eventsjava.util.ArrayList2	isEmpty()*
+4
+5*¢
 8r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaã ã(“
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaå å(“
 œ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaã ã(
-%44javax.swing.JComboBox"__id*5*3
-Lgui/CreateQuestionGUI$4126;"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaå å(
+%46javax.swing.JComboBox"__id*5*3
+Lgui/CreateQuestionGUI$4163;"
 jComboBoxEventsŒÀ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaã ã(
-%45void"java.awt.Component#repaint()V*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaå å(
+%47void"java.awt.Component#repaint()V*
 
-%44javax.swing.JComboBox2	repaint()*
-4
-5*å
+%46javax.swing.JComboBox2	repaint()*
+7*å
 30p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javat t(“
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javau u(“
 œ
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javat t($
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javau u($
 %2com.toedter.calendar.JCalendar"__id*/*-
-Lgui/CreateQuestionGUI$4126;"
+Lgui/CreateQuestionGUI$4163;"
 	jCalendarïí
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javat" t(C
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javau" u(C
 %3java.lang.Object">java.beans.PropertyChangeEvent#getNewValue()Ljava/lang/Object;*7
 5
 propertychangeeventjava.beans.PropertyChangeEvent2getNewValue()°û
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javat t(D
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javau u(D
 
 %4void"=com.toedter.calendar.JCalendar#setLocale(Ljava/util/Locale;)V*&
 $
@@ -307,24 +331,24 @@ $
 %3java.lang.Object2setLocale(Ljava/util/Locale;)*
 1*¨
 20r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇ Ç(;´®
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÉ É(;´®
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇ Ç(;
-%26java.lang.String"?java.text.DateFormat#format(Ljava/util/Date;)Ljava/lang/String;*%
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÉ É(;
+%27java.lang.String"?java.text.DateFormat#format(Ljava/util/Date;)Ljava/lang/String;*%
 #
 dateformat1java.text.DateFormat*
 
-%25java.util.Date2format(Ljava/util/Date;)*
+%26java.util.Date2format(Ljava/util/Date;)*
 19*ó
 31p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javas s(ùö
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javat t(ùö
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javas s(-
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javat t(-
 %0java.lang.String"Bjava.beans.PropertyChangeEvent#getPropertyName()Ljava/lang/String;*7
 5
 propertychangeeventjava.beans.PropertyChangeEvent2getPropertyName()ÙÒ
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javas s(>
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javat t(>
 %1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
 
 %0java.lang.String*
@@ -333,81 +357,89 @@ f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui
 29
 30*Û
 21r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇ Ç(Ω
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÉ É(Ω
 ∫
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÅ" Ç(
-%23java.lang.String"__concat*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇ" É(
+%24java.lang.String"__concat*
 
-%22java.lang.String*
+%23java.lang.String*
 : À
 »
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇ% Ç(0
-%24java.util.Calendar"__id*1*/
-Lgui/CreateQuestionGUI$4126;"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÉ% É(0
+%25java.util.Calendar"__id*1*/
+Lgui/CreateQuestionGUI$4163;"
 calendarMio‰·
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇ% Ç(:
-%25java.util.Date",java.util.Calendar#getTime()Ljava/util/Date;*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÉ% É(:
+%26java.util.Date",java.util.Calendar#getTime()Ljava/util/Date;*
 
-%24java.util.Calendar2	getTime()*
+%25java.util.Calendar2	getTime()*
 20*Û
 10r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaä ä(Ÿ
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaã ã(Ÿ
 ÷
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaä ä('
-%42 javax.swing.DefaultComboBoxModel"__id*1*/
-Lgui/CreateQuestionGUI$4126;"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaã ã('
+%44 javax.swing.DefaultComboBoxModel"__id*1*/
+Lgui/CreateQuestionGUI$4163;"
 modelEventsìê
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaä ä(!
-%43"@javax.swing.DefaultComboBoxModel#addElement(Ljava/lang/Object;)V*)
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaã ã(!
+%45"@javax.swing.DefaultComboBoxModel#addElement(Ljava/lang/Object;)V*)
 '
-%42 javax.swing.DefaultComboBoxModel*
+%44 javax.swing.DefaultComboBoxModel*
 ""2addElement(Ljava/lang/Object;)*
 8
 10*´
 22r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÅR Å(\™ß
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇR Ç(\™ß
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÅ" Å(]
-%22java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇ" Ç(]
+%23java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
 
-%21java.util.ResourceBundle*
+%22java.util.ResourceBundle*
 
 NoEvents2getString(Ljava/lang/String;)*
-21*˚
+21*ˇ
 12r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaá á(°
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaà à(°
 û
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaá á(
-%40java.io.PrintStream"__id*
-""”–
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaà à(
+%41java.io.PrintStream"__id*
+""»
+≈
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaá á(,
-%41" java.io.PrintStream#println([C)V*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaà à(+
+%42java.lang.String"__concat*	
+Events *
+
+eventsjava.util.ArrayListåâ
+r
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaà à(,
+%43void"0java.io.PrintStream#println(Ljava/lang/String;)V*
 
-%40java.io.PrintStream*
-""2println([C)*
+%41java.io.PrintStream*
+
+%42java.lang.String2println(Ljava/lang/String;)*
 8
 10*Ì
 23r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÅ Å(“
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇ Ç(“
 œ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÅ Å(
-%20javax.swing.JLabel"__id*8*6
-Lgui/CreateQuestionGUI$4126;"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇ Ç(
+%21javax.swing.JLabel"__id*8*6
+Lgui/CreateQuestionGUI$4163;"
 jLabelListOfEventsó
 î
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÅ" Å(G
-%21java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/gui/CreateQuestionGUI.javaÇ" Ç(G
+%22java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
 java.util.ResourceBundle*
 	Etiquetas*
 22:5
 propertychangeeventjava.beans.PropertyChangeEventB 
-Lgui/CreateQuestionGUI$4126;
+Lgui/CreateQuestionGUI$4163;

@@ -4,6 +4,8 @@ import businessLogic.BLFacade;
 import configuration.UtilDate;
 
 import com.toedter.calendar.JCalendar;
+
+import domain.Event;
 import domain.Question;
 import javax.swing.*;
 import java.awt.*;
@@ -117,7 +119,7 @@ public class FindQuestionsGUI extends JFrame {
 
 						BLFacade facade=MainGUI.getBusinessLogic();
 
-						Vector<domain.Event> events=facade.getEvents(firstDay);
+						ArrayList<Event> events=facade.getEvents(firstDay);
 
 						if (events.isEmpty() ) jLabelEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("NoEvents")+ ": "+dateformat1.format(calendarMio.getTime()));
 						else jLabelEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("Events")+ ": "+dateformat1.format(calendarMio.getTime()));

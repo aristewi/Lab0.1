@@ -1,4 +1,5 @@
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 
@@ -88,7 +89,7 @@ public class DataAccessTest {
 			
 			
 			//verify the results
-			assertTrue(q!=null);
+			assertNotNull(q);
 			assertEquals(q.getQuestion(),queryText);
 			assertEquals(q.getBetMinimum(),betMinimum,0);
 			

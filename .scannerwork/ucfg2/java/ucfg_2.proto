@@ -1,206 +1,206 @@
 
 %dataAccess.DataAccess#initializeDB()Vp
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java3 3("105*×
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java4 4("105*×
 24r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‚ ‚(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java„ „(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‚ ‚(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java„ „(&
 %28javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‚ ‚(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java„ „(
 %29"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %28javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 23*„
 46p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javag g(8…‚
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javai i(8…‚
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javag g(8
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javai i(8
 %15boolean",java.util.Locale#equals(Ljava/lang/Object;)Z*
 
 %12java.util.Locale*
 
 %13java.util.Locale2equals(Ljava/lang/Object;)*
-30*Ñ
-25p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (Æ
-Ã
-p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (&
+30*×
+25r
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (È
+Å
+r
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (&
 %26javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-db‰†
-p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (
+db‹ˆ
+r
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (
 %27"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %26javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 24*ï
 47p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javag2 g(6 
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javai2 i(6 
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javag+ g(1
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javai+ i(1
 %13java.util.Locale"java.util.LocaleÍ
 Ê
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javag' g(7
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javai' i(7
 %14",java.util.Locale#<init>(Ljava/lang/String;)V*
 
 %13java.util.Locale*
 en*
-46*Ñ
-26p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java~ ~(Æ
-Ã
-p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java~ ~(&
+46*×
+26r
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java€ €(È
+Å
+r
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java€ €(&
 %24javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-db‰†
-p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java~ ~(
+db‹ˆ
+r
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java€ €(
 %25"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %24javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 25*Ô
 48p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javag g(Õ
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javai i(Õ
 Ò
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javag g(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javai i(
 %12java.util.Locale"/java.util.Locale#getDefault()Ljava/util/Locale;*"
 java.util.Locale*
 47*Ñ
 27p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java} }(Æ
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (Æ
 Ã
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java} }(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (&
 %22javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‰†
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java} }(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (
 %23"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %22javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 26*Ñ
 28p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java| |(Æ
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java~ ~(Æ
 Ã
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java| |(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java~ ~(&
 %20javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‰†
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java| |(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java~ ~(
 %21"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %20javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 27*Ñ
 29p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java{ {(Æ
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java} }(Æ
 Ã
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java{ {(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java} }(&
 %18javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‰†
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java{ {(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java} }(
 %19"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %18javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 28*Ñ
 30p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaz z(Æ
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java| |(Æ
 Ã
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaz z(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java| |(&
 %16javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‰†
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaz z(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java| |(
 %17"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %16javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 29*Ö
 10r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java’ ’(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java’ ’(&
 %56javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java’ ’(
 %57"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %56javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 9*×
 11r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‘ ‘(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‘ ‘(&
 %54javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‘ ‘(
 %55"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %54javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 10*×
 12r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (&
 %52javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (
 %53"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %52javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 11*×
 13r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (&
 %50javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (
 %51"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %50javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 12*†
 57p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java_ _(3ƒ€
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaa a(3ƒ€
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java_ _(3
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaa a(3
 %11boolean",java.util.Locale#equals(Ljava/lang/Object;)Z*
 
 %8java.util.Locale*
@@ -209,111 +209,111 @@ f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dat
 48
 30*×
 14r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaŒ Œ(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaŒ Œ(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (&
 %48javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaŒ Œ(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (
 %49"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %48javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 13*í
 58p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java_- _(1Ÿœ
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaa- a(1Ÿœ
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java_& _(,
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaa& a(,
 %9java.util.Locale"java.util.LocaleÌ
 É
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java_" _(2
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaa" a(2
 %10",java.util.Locale#<init>(Ljava/lang/String;)V*
 
 %9java.util.Locale*
 es*
 57*×
 15r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‹ ‹(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‹ ‹(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (&
 %46javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‹ ‹(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (
 %47"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %46javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 14*Ó
 59p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaV V(RÔ
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaW W(RÔ
 Ñ
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java_ _(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaa a(
 %8java.util.Locale"/java.util.Locale#getDefault()Ljava/util/Locale;*"
 java.util.Locale*
 58*×
 16r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaŠ Š(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaŒ Œ(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaŠ Š(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaŒ Œ(&
 %44javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaŠ Š(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaŒ Œ(
 %45"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %44javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 15*×
 17r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‰ ‰(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‹ ‹(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‰ ‰(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‹ ‹(&
 %42javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‰ ‰(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‹ ‹(
 %43"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %42javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 16*×
 18r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaˆ ˆ(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaŠ Š(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaˆ ˆ(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaŠ Š(&
 %40javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaˆ ˆ(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaŠ Š(
 %41"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %40javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 17*×
 19r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‡ ‡(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‰ ‰(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‡ ‡(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‰ ‰(&
 %38javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‡ ‡(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‰ ‰(
 %39"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %38javax.persistence.EntityManager*
@@ -321,31 +321,31 @@ f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dat
 18*‘
 0 "‰
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java (
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaŸ Ÿ(
 implicit return*¨
 2r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java˜ ˜(	¡
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaš š(	¡
 
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java˜ ˜(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaš š(
 %71java.io.PrintStream"__id*
 ""…‚
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java˜ ˜('
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaš š('
 %72void"0java.io.PrintStream#println(Ljava/lang/String;)V*
 
 %71java.io.PrintStream*
 Db initialized2println(Ljava/lang/String;)*
 0*á
 102p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java; ;()
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java< <()
 ‹
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java= =(%	
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java> >(%	
 %6int"__id*
 ""ĞÍ
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java= =(&	
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java> >(&	
 %7int"java.util.Calendar#get(I)I*
 
 todayjava.util.Calendar*
@@ -353,28 +353,28 @@ f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dat
 %6int2get(I)*
 59*ê
 3r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java— —(ëè
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java™ ™(ëè
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java— —(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java™ ™(
 %70void"-javax.persistence.EntityTransaction#commit()V*,
 *
 %69#javax.persistence.EntityTransaction2commit()*
 2*™
 103p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java9 9(-´
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java: :(-´
 ±
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java9 9(-
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java: :(-
 todayjava.util.Calendar"__id*
 
 %3java.util.Calendar
 ‹
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java; ;('	
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java< <('	
 %4int"__id*
 ""ĞÍ
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java; ;((	
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java< <((	
 %5int"java.util.Calendar#get(I)I*
 
 todayjava.util.Calendar*
@@ -382,177 +382,177 @@ f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dat
 %4int2get(I)*
 102*€
 4r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java— —(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java™ ™(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java— —(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java™ ™(&
 %68javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db¶³
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java— —(*
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java™ ™(*
 %69#javax.persistence.EntityTransaction"Ujavax.persistence.EntityManager#getTransaction()Ljavax/persistence/EntityTransaction;*(
 &
 %68javax.persistence.EntityManager2getTransaction()*
 3*Ş
 104p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java9 9(İ
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java: :(İ
 Ú
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java9 9(,
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java: :(,
 %3java.util.Calendar"4java.util.Calendar#getInstance()Ljava/util/Calendar;*"
 java.util.Calendar*
 103*Õ
 5r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java• •(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java— —(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java• •(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java— —(&
 %66javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java• •(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java— —(
 %67"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %66javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 4*ã
 105p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java5 5(Å
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java6 6(Å
 Â
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java5 5(%
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java6 6(%
 %0javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db²¯
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java5 5()
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java6 6()
 %1#javax.persistence.EntityTransaction"Ujavax.persistence.EntityManager#getTransaction()Ljavax/persistence/EntityTransaction;*'
 %
 %0javax.persistence.EntityManager2getTransaction()åâ
 p
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java5 5(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java6 6(
 
 %2void",javax.persistence.EntityTransaction#begin()V*+
 )
 %1#javax.persistence.EntityTransaction2begin()*
 104*Õ
 6r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java” ”(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java– –(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java” ”(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java– –(&
 %64javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java” ”(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java– –(
 %65"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %64javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 5*Õ
 7r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java“ “(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java• •(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java“ “(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java• •(&
 %62javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java“ “(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java• •(
 %63"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %62javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 6*Õ
 8r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java’ ’(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java” ”(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java’ ’(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java” ”(&
 %60javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java’ ’(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java” ”(
 %61"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %60javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 7*Õ
 9r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‘ ‘(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java“ “(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‘ ‘(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java“ “(&
 %58javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‘ ‘(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java“ “(
 %59"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %58javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 8*×
 20r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java† †(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaˆ ˆ(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java† †(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaˆ ˆ(&
 %36javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java† †(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaˆ ˆ(
 %37"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %36javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 19*×
 21r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java… …(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‡ ‡(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java… …(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‡ ‡(&
 %34javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java… …(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java‡ ‡(
 %35"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %34javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 20*×
 22r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java„ „(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java† †(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java„ „(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java† †(&
 %32javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java„ „(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java† †(
 %33"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %32javax.persistence.EntityManager*
 ""2persist(Ljava/lang/Object;)*
 21*×
 23r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaƒ ƒ(È
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java… …(È
 Å
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaƒ ƒ(&
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java… …(&
 %30javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
 db‹ˆ
 r
-f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.javaƒ ƒ(
+f/Users/amaiaaristeguiiturraran/eclipse-workspace/is2/Bets2021/src/main/java/dataAccess/DataAccess.java… …(
 %31"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %30javax.persistence.EntityManager*

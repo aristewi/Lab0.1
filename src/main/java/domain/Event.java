@@ -25,7 +25,7 @@ public class Event implements Serializable {
 	private String description; 
 	private Date eventDate;
 	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST)
-	private Vector<Question> questions=new Vector<Question>();
+	private Vector<Question> questions=new Vector<>();
 
 	public Vector<Question> getQuestions() {
 		return questions;
