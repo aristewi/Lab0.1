@@ -84,7 +84,6 @@ public class CreateQuestionGUI extends JFrame {
 
 		jLabelMsg.setBounds(new Rectangle(275, 182, 305, 20));
 		jLabelMsg.setForeground(Color.red);
-		// jLabelMsg.setSize(new Dimension(305, 20));
 
 		jLabelError.setBounds(new Rectangle(175, 240, 305, 20));
 		jLabelError.setForeground(Color.red);
@@ -111,8 +110,6 @@ public class CreateQuestionGUI extends JFrame {
 		// Code for JCalendar
 		this.jCalendar.addPropertyChangeListener(new PropertyChangeListener() {
 			public void propertyChange(PropertyChangeEvent propertychangeevent) {
-//				this.jCalendar.addPropertyChangeListener(new PropertyChangeListener() {
-//					public void propertyChange(PropertyChangeEvent propertychangeevent) {
 				if (propertychangeevent.getPropertyName().equals("locale")) {
 					jCalendar.setLocale((Locale) propertychangeevent.getNewValue());
 				} else if (propertychangeevent.getPropertyName().equals("calendar")) {
@@ -167,7 +164,6 @@ public class CreateQuestionGUI extends JFrame {
 		Calendar calendar = jCalendar.getCalendar();
 		
 		int month = calendar.get(Calendar.MONTH);
-		//int today=calendar.get(Calendar.DAY_OF_MONTH);
 
 		calendar.set(Calendar.DAY_OF_MONTH, 1);
 		int offset = calendar.get(Calendar.DAY_OF_WEEK);
@@ -192,7 +188,6 @@ public class CreateQuestionGUI extends JFrame {
 			// the empty days before day 1 of month, and all the days previous to each day.
 			// That number of components is calculated with "offset" and is different in
 			// English and Spanish
-//			    		  Component o=(Component) jCalendar.getDayChooser().getDayPanel().getComponent(i+offset);; 
 			Component o = (Component) jCalendar.getDayChooser().getDayPanel()
 					.getComponent(calendar.get(Calendar.DAY_OF_MONTH) + offset);
 			o.setBackground(Color.CYAN);
